@@ -1,5 +1,5 @@
 {
-    "name": "WearPhone/PracticaUF4PHPCliente",
+    "name": "WearPhone/UF4PHPCliente",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "WearPhone\\PracticaUF4PHPCliente\\": "src/"
+            "WearPhone\\UF4PHPCliente\\": "src/"
         }
     }
 }
