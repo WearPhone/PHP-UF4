@@ -1,6 +1,6 @@
 {
-    "name": "wearphonewilly/PHP-UF4",
-    "description": "My first packagist package",
+    "name": "wearphonewilly/php-uf4",
+    "description": "Packagist package for create clients",
     "type": "package",
     "require": {
         "php": ">=5.3.0"
@@ -9,14 +9,13 @@
     "authors": [
         {
             "name": "Guillem",
-            "email": "guillem.cardil@gracia.lasalle.cat",
-            "homepage": "http://yourhomepage-if-you-have.com"
+            "email": "guillem.cardil@gracia.lasalle.cat"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "wearphonewilly\\PHP-UF4\\": "src/"
+            "wearphonewilly\\php-uf4\\": "src/"
         }
     }
 }
