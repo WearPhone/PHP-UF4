@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "wearphone\\PracticaUF4PHPCliente\\": "src/"
+            "WearPhone\\PracticaUF4PHPCliente\\": "src/"
         }
     }
 }
