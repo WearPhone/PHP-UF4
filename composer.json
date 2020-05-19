@@ -1,5 +1,5 @@
 {
-    "name": "WearPhone/PHP-UF4",
+    "name": "wearphonewilly/PHP-UF4",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "WearPhone\\PHP-UF4\\": "src/"
+            "wearphonewilly\\PHP-UF4\\": "src/"
         }
     }
 }
