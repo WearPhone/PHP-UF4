@@ -1,5 +1,5 @@
 {
-    "name": "wearphone/PracticaUF4PHPCliente",
+    "name": "WearPhone/PracticaUF4PHPCliente",
     "description": "My first packagist package",
     "type": "package",
     "require": {
