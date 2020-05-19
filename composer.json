@@ -1,0 +1,22 @@
+{
+    "name": "wearphone/PracticaUF4PHPCliente",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Guillem",
+            "email": "guillem.cardil@gracia.lasalle.cat",
+            "homepage": "http://yourhomepage-if-you-have.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "wearphone\\PracticaUF4PHPCliente\\": "src/"
+        }
+    }
+}
